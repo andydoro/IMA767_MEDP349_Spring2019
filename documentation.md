@@ -1,3 +1,5 @@
+# Documentation Guidelines
+
 Keeping good documentation of your work is one of the most useful and under appreciated skills. Good documentation paints a clear and full picture of your work - the final product is just as important as the process you took to create it. Documentation is helpful for bringing attention to your work and sharing how you made something, but it's also important for helping you to retrace your steps and remember what you did when you revisit the project months or years later. This is especially important for physical work.
 
 When introducing your work, write for a broad audience. If someone on the internet randomly came across your documentation, would they have a clear idea of what it is? What it does? How it works? Your general description should be easy to understand regardless of the reader's technical experience.

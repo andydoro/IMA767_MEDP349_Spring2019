@@ -26,6 +26,15 @@ By the end of this course the student should be able to build and program basic 
 * [Getting Started with Adafruit Playground Express by Mike Barela](https://www.adafruit.com/product/3944) (available at the Hunter Bookstore!)
 * [Getting Started with Adafruit Playground Express Book Bundle](https://www.adafruit.com/product/3977) (best value!)  
 
+### Required Reading 
+* [Programming Arduino by Simon Monk](https://www.adafruit.com/product/1019) 
+* [Experimenters Guide for Metro](https://learn.adafruit.com/experimenters-guide-for-metro) ([PDF version](http://ardx.org/src/guide/2/ARDX-EG-ADAF-PRINT.pdf))   
+* [Arduino Reference](https://www.arduino.cc/reference/en/)
+
+## Optional Reading
+[Getting Started in Electronics by Forrest M. Mims III](https://www.adafruit.com/product/517)   
+[Programming Design Systems by Rune Madsen](https://programmingdesignsystems.com/) 
+  
 ### Suggested Tools
 * multimeter
 * breadboards
@@ -38,7 +47,6 @@ By the end of this course the student should be able to build and program basic 
 
 It is likely that you will need additional materials depending on the nature of your projects. However, taking advantage of found and recycled materials is encouraged.
 
-
 ### Software
 [Arduino IDE](https://www.arduino.cc/en/Main/Software)   
 [GitHub](https://github.com/) -
@@ -49,16 +57,7 @@ used for documenting electronics projects
 Arduino and electronics simulator
 
 
-### Required Reading
-[Exploring Arduino by Jeremy Blum](https://www.exploringarduino.com/)   
-[Experimenters Guide for Metro](https://learn.adafruit.com/experimenters-guide-for-metro) ([PDF version](http://ardx.org/src/guide/2/ARDX-EG-ADAF-PRINT.pdf))   
-[Arduino Reference](https://www.arduino.cc/reference/en/)
-
-## Optional Reading
-[Getting Started in Electronics by Forrest M. Mims III](https://www.adafruit.com/product/517)   
-[Programming Arduino by Simon Monk](https://www.adafruit.com/product/1019)   
-[Elegoo Uno R3 Super Starter Kit](https://www.elegoo.com/tutorial/Elegoo%20Super%20Starter%20Kit%20for%20UNO%20V1.0.2018.09.20.zip)  
-[Programming Design Systems by Rune Madsen](https://programmingdesignsystems.com/)   
+  
 
 
 ## Attendance and Participation
@@ -80,9 +79,9 @@ This is a production heavy class. If you do not have your own computer, you will
 
 Some equipment such as multimeters and soldering irons are available to borrow from the equipment room at HN435 although you may consider investing in purchasing your own tools.  
 
-You must post assignments to the [class homework page](https://github.com/andydoro/IMA767_MEDP349_Fall2018/wiki/Homework) on the **following Tuesday, 11pm** before class. Bring your work to class each week and be prepared to talk about it. For each week an assignment is late, 10 points will be deducted from its grade.
+You must post assignments to the [class homework page](https://github.com/andydoro/IMA767_MEDP349_Spring2019/wiki/Homework) on the **following Tuesday, 11pm** before class. Bring your work to class each week and be prepared to talk about it. For each week an assignment is late, 10 points will be deducted from its grade.
 
-Documentation of your work is required for all physical assignments. Refer to the [documentation guidelines](https://github.com/andydoro/IMA767_MEDP349_Fall2018/wiki/Documentation-Guidelines).
+Documentation of your work is required for all physical assignments. Refer to the [documentation guidelines](https://github.com/andydoro/IMA767_MEDP349_Spring2019/blob/master/documentation.md).
 
 ## Physical Computing Lab
 
@@ -104,7 +103,7 @@ The final project will demonstrate a large amount of time spent outside of class
 * Make an interactive system that can keep a user engaged with your system 
 * Should be novel
 * Should be soldered- not using a breadboard
-* Must be [well documented](https://github.com/andydoro/IMA767_MEDP349_Fall2018/wiki/Documentation-Guidelines), including circuit diagrams and well-commented code
+* Must be [well documented](https://github.com/andydoro/IMA767_MEDP349_Spring2019/blob/master/documentation.md), including circuit diagrams and well-commented code
 * Explain your design processes
 
 ## Electronic Device Policy 
