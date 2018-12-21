@@ -27,7 +27,7 @@ By the end of this course the student should be able to build and program basic 
 * [Getting Started with Adafruit Playground Express Book Bundle](https://www.adafruit.com/product/3977) (best value!)  
 
 ### Required Reading 
-* [Programming Arduino by Simon Monk](https://www.adafruit.com/product/1019) 
+* [Learn Electronics with Arduino by Jody Culkin and Eric Hagan](https://www.adafruit.com/product/3638) 
 * [Experimenters Guide for Metro](https://learn.adafruit.com/experimenters-guide-for-metro) ([PDF version](http://ardx.org/src/guide/2/ARDX-EG-ADAF-PRINT.pdf))   
 * [Arduino Reference](https://www.arduino.cc/reference/en/)
 
@@ -49,16 +49,10 @@ It is likely that you will need additional materials depending on the nature of 
 
 ### Software
 [Arduino IDE](https://www.arduino.cc/en/Main/Software)   
-[GitHub](https://github.com/) -
-used for posting code and homework assignments   
-[Fritzing](http://fritzing.org/home/) - 
-used for documenting electronics projects  
-[TinkerCAD Circuits](https://www.tinkercad.com/circuits) -
-Arduino and electronics simulator
-
-
-  
-
+[GitHub](https://github.com/) - used for posting code and homework assignments   
+[Github Desktop](https://desktop.github.com/) - used to make interactions with Github easier  
+[Fritzing](http://fritzing.org/home/) - used for documenting electronics projects  
+[TinkerCAD Circuits](https://www.tinkercad.com/circuits) - Arduino and electronics simulator
 
 ## Attendance and Participation
 
@@ -87,7 +81,7 @@ Documentation of your work is required for all physical assignments. Refer to th
 
 Room: HN478
 Hours: M-F 9am-9pm, Sat 10:30am-3:30pm  
-Access: Go to Peter Jackson's office HN435 to get the door open  
+Access: Go to Peter Jackson's office at HN435 to have someone open the door  
 
 ## Grading
 
@@ -134,7 +128,7 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 
 ## Weekly Schedule
 
-### Week 1, August 29 - Review Syllabus 
+### Week 1, January 30 - Review Syllabus 
 * what is:
   * physical computing
   * interactivity
@@ -143,13 +137,9 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
     * "Hello World"
   * Blum, Ch. 1
 
-### September 2 - Last day to drop for 75% tuition refund; Last day to add a class
+### January 31 - Last day to drop for 75% tuition refund; Last day to add a course
 
-### September 5 (Monday Schedule - no class)
-
-### September 9 - Last day to drop for 50% tuition refund
-
-### Week 2, September 12 - Electronics Basics
+### Week 2, February 6 - Electronics Basics
 * basic circuit
 * voltage, current, resistance
   * Ohm’s Law
@@ -159,11 +149,9 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 * multimeter
 * ICs
 
-### September 16 - Last day to drop without a grade of "W"
+### February 7 - Last day to drop for 50% tuition refund
 
-### September 19 - No classes scheduled
-
-### Week 3, September 26 - Arduino Basics
+### Week 3, February 13 - Arduino Basics
 * digital I/O
 * digital vs. analog
 * serial console
@@ -173,26 +161,29 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
   * tone
 * Blum, Ch. 2-3
 
-### Week 4, October 3 - Programming Interaction & Analog I/O / Halloween Costume Proposals
+### February 14 - Last day to drop for 25% tuition refund; Last day to drop without a grade of "W"
+
+
+### Week 4, February 20 - Programming Interaction & Analog I/O 
 * programming interaction
   * variables
   * conditionals (if, else)
   * datatypes
 
-### Week 5, October 10 - Iteration
+### Week 5, February 27 - Iteration
 * for/while loops
 * arrays
 * functions
 * Blum, Ch. 7
 
-### Week 6, October 17 - Serial Communication
+### Week 6, March 6 - Serial Communication
 * asynchronous communication
 * I2C, SPI
 * using libraries
 * wireless communication
 * Blum, Ch. 8-9
 
-### Week 7, October 24 - High Current Loads
+### Week 7, March 13 - High Current Loads
 * motors
   * DC motor
   * servo
@@ -201,11 +192,11 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 * transistors / relays
 * Blum, Ch. 4
 
-### Week 8, October 31 - Halloween Costume Presentations
+### Week 8, March 20
 
-### November 6 - Last day to withdraw from a course with a grade of "W"
+### April 1 - Last day to withdraw from a course with a grade of "W"
 
-### Week 9, November 7 - Final Project Proposal / Libraries, Functions and Better Prototyping Techniques
+### Week 9, March 27 - Final Project Proposal / Libraries, Functions and Better Prototyping Techniques
 * creating your own functions
 * soldering
 * shields
@@ -213,21 +204,24 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 * connectors
 * enclosures & panel mount components
 
-### Week 10, November 14 - Final Project Concept Discussion / Wireless
+### Week 10, April 3 - Final Project Concept Discussion / Wireless
 * electromagnetic spectrum
 * network topologies
 * radio, Xbee, Bluetooth, WiFi, GSM
 * Blum, Ch. 11, 14
 
-### Week 11, November 21 - Final Projects Workshop
+### Week 11, April 10 - Final Projects Workshop
 
-### Fall Recess, November 22-25
+### Week 12, April 17 - Final Project Prototype
 
-### Week 12, November 28 - Final Project Prototype
+### Spring Recess, April 19-28
 
-### Week 13, December 5 - Final Project User Testing
+### Week 13, May 1 - Final Project User Testing
 
-### Week 14, December 12 - Final Project Presentations
+### Week 14, May 8 - Final Project Presentations
+
+### Week 14, May 15 - Final Project Presentations
+
 
 
 

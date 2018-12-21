@@ -8,6 +8,11 @@
 * [Hackster.io](https://www.hackster.io/arduino/projects)
 * [Instructables](http://www.instructables.com/howto/arduino/)
 
+## Reference
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Octopart](https://octopart.com/)
+* [Programming Design Systems](https://programmingdesignsystems.com/)
+
 ## Suppliers
 ### Electronics
 * [Adafruit](https://www.adafruit.com/) - based in NYC
@@ -20,11 +25,6 @@
 * [Jameco](https://www.jameco.com/) - wholesale electronics
 ### Mechanical
 * [McMaster-Carr](https://www.mcmaster.com/)
-
-## Misc
-* [Octopart](https://octopart.com/)
-* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* [Programming Design Systems](https://programmingdesignsystems.com/)
 
 ## Local Hackerspaces
 check websites for open days!
