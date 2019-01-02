@@ -22,7 +22,7 @@ You should get more technical as you go into the details of your project. For ex
   * Early sketches, prototypes, etc. are great to look back on and provide depth to your project.
   * Show the tools and materials you used.
   * Discuss challenges, design decisions, epiphanies, etc.
-  * Provide citations when you get ideas, inspiration or technical assistance from elsewhere.
+  * Provide citations when you get ideas, inspiration or technical assistance from elsewhere. It's normal with complex technical projects to build upon the work of others, whether with code libraries or circuit diagrams. Make sure to give credit when using someone else's code or make clear which aspects are your original contributions.
 
 ## Conclusions
 * What still needs to be done?
