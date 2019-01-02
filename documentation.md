@@ -47,3 +47,6 @@ You have two options when it comes to uploading and sharing your code. I would h
 
 1. [Managing Files in a Github Repository](https://help.github.com/categories/managing-files-in-a-repository/)
 2. [GitHub Gists](https://gist.github.com/)
+
+Post your Arduino code with a ".ino" filename ending so that Github will be highlight the syntax correctly. You can also use `\`\`\`cpp` markdown in a post to indicate to Github that you're posting code to be interpreted as C++. 
+
