@@ -23,8 +23,10 @@ This course introduces students to microcontroller programming, electronics, and
 By the end of this course the student should be able to build and program basic microcontroller projects on the Arduino platform as well as have an understanding of physical interaction design. 
 
 ## Required Materials
-* [Getting Started with Adafruit Playground Express by Mike Barela](https://www.adafruit.com/product/3944) (available at the Hunter Bookstore!)
-* [Getting Started with Adafruit Playground Express Book Bundle](https://www.adafruit.com/product/3977) (best value!)  
+* [Elegoo Starter kit](https://www.amazon.com/Elegoo-Project-Starter-Tutorial-Arduino/dp/B01D8KOZF4/) (best value!)  
+* [MetroX kit](https://www.adafruit.com/product/3588) (another option)
+* [ARDX kit from Tinkersphere](http://tinkersphere.com/boards/1443-ardx-arduino-kit-nyc.html) (can buy in person) 
+* [multimeter](https://www.adafruit.com/?q=multimeter)
 
 ### Required Reading 
 * [Learn Electronics with Arduino by Jody Culkin and Eric Hagan](https://www.adafruit.com/product/3638) 
@@ -32,11 +34,12 @@ By the end of this course the student should be able to build and program basic 
 * [Arduino Reference](https://www.arduino.cc/reference/en/)
 
 ## Optional Reading
-[Getting Started in Electronics by Forrest M. Mims III](https://www.adafruit.com/product/517)   
+[Elegoo Uno R3 Super Starter Kit](https://www.elegoo.com/tutorial/Elegoo%20Super%20Starter%20Kit%20for%20UNO%20V1.0.2018.09.20.zip)   
+[Getting Started in Electronics by Forrest M. Mims III](https://www.adafruit.com/product/517)  
+[Programming Arduino by Simon Monk](https://www.adafruit.com/product/1019)  
 [Programming Design Systems by Rune Madsen](https://programmingdesignsystems.com/) 
   
 ### Suggested Tools
-* multimeter
 * breadboards
 * 22-AWG solid core hook-up wire, various colors
 * wire strippers
