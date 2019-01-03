@@ -28,12 +28,12 @@ By the end of this course the student should be able to build and program basic 
 * [ARDX kit from Tinkersphere](http://tinkersphere.com/boards/1443-ardx-arduino-kit-nyc.html) (can buy in person) 
 * [multimeter](https://www.adafruit.com/?q=multimeter)
 
-### Required Reading 
+## Required Reading 
 * [Learn Electronics with Arduino by Jody Culkin and Eric Hagan](https://www.adafruit.com/product/3638) 
 * [Experimenters Guide for Metro](https://learn.adafruit.com/experimenters-guide-for-metro) ([PDF version](http://ardx.org/src/guide/2/ARDX-EG-ADAF-PRINT.pdf))   
 * [Arduino Reference](https://www.arduino.cc/reference/en/)
 
-## Optional Reading
+### Optional Reading
 [Elegoo Uno R3 Super Starter Kit](https://www.elegoo.com/tutorial/Elegoo%20Super%20Starter%20Kit%20for%20UNO%20V1.0.2018.09.20.zip)   
 [Getting Started in Electronics by Forrest M. Mims III](https://www.adafruit.com/product/517)  
 [Programming Arduino by Simon Monk](https://www.adafruit.com/product/1019)  
