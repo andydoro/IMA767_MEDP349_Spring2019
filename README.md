@@ -196,9 +196,7 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 * solenoids
 * transistors / relays
 
-### Week 8, March 20
-
-### April 1 - Last day to withdraw from a course with a grade of "W"
+### Week 8, March 20 - Midterm Project Presentations
 
 ### Week 9, March 27 - Final Project Proposal / Libraries, Functions and Better Prototyping Techniques
 * creating your own functions
@@ -207,6 +205,8 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 * wiring
 * connectors
 * enclosures & panel mount components
+
+### April 1 - Last day to withdraw from a course with a grade of "W"
 
 ### Week 10, April 3 - Final Project Concept Discussion / Wireless
 * electromagnetic spectrum
@@ -223,7 +223,7 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 
 ### Week 14, May 8 - Final Project Presentations
 
-### Week 14, May 15 - Final Project Presentations
+### Week 15, May 15 - Final Project Presentations
 
 
 ---
