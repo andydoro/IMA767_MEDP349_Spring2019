@@ -30,6 +30,7 @@ By the end of this course the student should be able to build and program basic 
 
 ## Required Reading 
 * [Learn Electronics with Arduino by Jody Culkin and Eric Hagan](https://www.adafruit.com/product/3638) 
+* [Learn Electronics with Arduino example code](https://github.com/arduinotogo/LEA)  
 * [Experimenters Guide for Metro](https://learn.adafruit.com/experimenters-guide-for-metro) ([PDF version](http://ardx.org/src/guide/2/ARDX-EG-ADAF-PRINT.pdf))   
 * [Arduino Reference](https://www.arduino.cc/reference/en/)
 
@@ -88,8 +89,9 @@ Access: Go to Peter Jackson's office at HN435 to have someone open the door
 
 ## Grading
 
-* Assignments: 35%
-* Attendance and Participation: 35%
+* Assignments: 25%
+* Attendance and Participation: 25%
+* Midterm Project: 20%
 * Final Project: 30%
 
 ### Final Project
@@ -138,7 +140,7 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
   * a microcontroller
   * Arduino
     * "Hello World"
-  * Blum, Ch. 1
+* Culkin & Hagan, Ch. 1-2
 
 ### January 31 - Last day to drop for 75% tuition refund; Last day to add a course
 
@@ -151,6 +153,7 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 * breadboards
 * multimeter
 * ICs
+* Culkin & Hagan, Ch. 3 & 5
 
 ### February 7 - Last day to drop for 50% tuition refund
 
@@ -162,29 +165,28 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
   * ADC
   * pulse width modulation
   * tone
-* Blum, Ch. 2-3
+* Culkin & Hagan, Ch. 4
 
 ### February 14 - Last day to drop for 25% tuition refund; Last day to drop without a grade of "W"
-
 
 ### Week 4, February 20 - Programming Interaction & Analog I/O 
 * programming interaction
   * variables
   * conditionals (if, else)
   * datatypes
+* Culkin & Hagan, Ch. 6-7
 
 ### Week 5, February 27 - Iteration
 * for/while loops
 * arrays
 * functions
-* Blum, Ch. 7
+* Culkin & Hagan, Ch. 8
 
 ### Week 6, March 6 - Serial Communication
 * asynchronous communication
 * I2C, SPI
 * using libraries
 * wireless communication
-* Blum, Ch. 8-9
 
 ### Week 7, March 13 - High Current Loads
 * motors
@@ -193,11 +195,8 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
   * stepper
 * solenoids
 * transistors / relays
-* Blum, Ch. 4
 
-### Week 8, March 20
-
-### April 1 - Last day to withdraw from a course with a grade of "W"
+### Week 8, March 20 - Midterm Project Presentations
 
 ### Week 9, March 27 - Final Project Proposal / Libraries, Functions and Better Prototyping Techniques
 * creating your own functions
@@ -207,11 +206,12 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 * connectors
 * enclosures & panel mount components
 
+### April 1 - Last day to withdraw from a course with a grade of "W"
+
 ### Week 10, April 3 - Final Project Concept Discussion / Wireless
 * electromagnetic spectrum
 * network topologies
 * radio, Xbee, Bluetooth, WiFi, GSM
-* Blum, Ch. 11, 14
 
 ### Week 11, April 10 - Final Projects Workshop
 
@@ -223,9 +223,7 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 
 ### Week 14, May 8 - Final Project Presentations
 
-### Week 14, May 15 - Final Project Presentations
-
-
+### Week 15, May 15 - Final Project Presentations
 
 
 ---

@@ -25,6 +25,7 @@
 * [Jameco](https://www.jameco.com/) - wholesale electronics
 ### Mechanical
 * [McMaster-Carr](https://www.mcmaster.com/)
+* [Canal Plastics](https://www.canalplastic.com/)
 
 ## Local Hackerspaces
 check websites for open days!
