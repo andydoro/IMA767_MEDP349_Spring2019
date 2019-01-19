@@ -58,9 +58,20 @@ It is likely that you will need additional materials depending on the nature of 
 [Fritzing](http://fritzing.org/home/) - used for documenting electronics projects  
 [TinkerCAD Circuits](https://www.tinkercad.com/circuits) - Arduino and electronics simulator
 
-## Attendance and Participation
+## Attendance
 
 Attendance is mandatory for all class sessions. Unexcused absence, tardiness, or leaving early negatively impacts your attendance record and will damage your grade. If you anticipate being late or absent, let me know as early as possible. Medical emergencies must be documented to be excused. If you cannot attend class on the day of a quiz, you must speak with me ahead of time in order to arrange for you to take it another time. This will only be done in cases where there is a well-documented reason for missing the quiz. 
+
+## Class Participation
+
+By enrolling in this course and entering the classroom, each student makes the tacit commitment to participate in the class. Active class participation involves more than mere physical presence. Students are expected to be actively involved in the class. They should take the initiative in discussion and projects, ask relevant questions, and contribute to the over-all learning environment of the class.
+
+It is your responsibility:
+
+1. To prepare for class by having read assignments, written papers and/or prepared projects 
+2. To actively participate in class discussion and activities;
+3. To take notes on discussions, presentations, and activities conducted within the class; 
+4. To complete all course assignments, even if you are absent from a class meeting.
 
 Participation means:    
 * Being attentive and respectful when others are speaking or presenting.
@@ -68,7 +79,7 @@ Participation means:
   * Contributing to in-class discussion, asking relevant questions and providing constructive feedback to your peers.
 * There are no dumb questions.  
 * Sharing your work each week and following along with in-class labs.  
-	* Failing to bring assignments and required materials to class will prevent you from participating.  
+  * Failing to bring assignments and required materials to class will prevent you from participating.  
 * Contributing to the online discussion in the [issues section](https://github.com/andydoro/IMA767_MEDP349_Spring2019/issues).
 
 ## Assignments
@@ -121,15 +132,11 @@ Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating o
 
 In compliance with the ADA and with Section 504 of the Rehabilitation Act, Hunter College is committed to ensuring educational access and accommodations for all its registered students. Hunter College’s students with disabilities and medical conditions are encouraged to register with the Office of AccessABILITY for assistance and accommodation. For information and appointment contact the Office of AccessABILITY located in Room E1214 or call (212) 772-4857 or VRS (646) 755-3129, or visit [http://www.hunter.cuny.edu/studentservices/access/](http://www.hunter.cuny.edu/studentservices/access/)
 
-## Sexual Misconduct
+## Hunter College Policy on Sexual Misconduct
 
-In compliance with the CUNY Policy on Sexual Misconduct, Hunter College reaffirms the prohibition of any sexual misconduct, which includes sexual violence, sexual harassment, and gender-based harassment retaliation against students, employees, or visitors, as well as certain intimate relationships. Students who have experienced any form of sexual violence on or off campus (including CUNY-sponsored trips and events) are entitled to the rights outlined in the Bill of Rights for Hunter College.  
-<ol type="a">
-<li>Sexual Violence: Students are strongly encouraged to immediately report the incident by calling 911, contacting NYPD Special Victims Division Hotline (646-610-7272) or their local police precinct, or contacting the College's Public Safety Office (212-772-4444).</li>  
-<li>All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, Dean John Rose (<a href="mailto:jtrose@hunter.cuny.edu">jtrose@hunter.cuny.edu</a> or 212-650-3262) or Colleen Barry (<a href="mailto:colleen.barry@hunter.cuny.edu">colleen.barry@hunter.cuny.edu</a> or 212-772-4534) and seek complimentary services through the Counseling and Wellness Services Office, Hunter East 1123.</li>
-</ol>  
+In compliance with the CUNY Policy on Sexual Misconduct, Hunter College reaffirms the prohibition of any sexual misconduct, which includes sexual violence, sexual harassment, and gender-based harassment retaliation against students, employees, or visitors, as well as certain intimate relationships. Students who have experienced any form of sexual violence on or off campus (including CUNY-sponsored trips and events) are entitled to the rights outlined in the Bill of Rights for Hunter College. Sexual Violence: Students are strongly encouraged to immediately report the incident by calling 911, contacting NYPD Special Victims Division Hotline (646-610-7272) or their local police precinct, or contacting the College's Public Safety Office (212-772-4444).
 
-CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf](http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf)
+All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, Dean John Rose ([jtrose@hunter.cuny.edu](mailto:jtrose@hunter.cuny.edu) or 212-650-3262) or Colleen Barry (<a href="mailto:colleen.barry@hunter.cuny.edu">colleen.barry@hunter.cuny.edu</a> or 212-772-4534) and seek complimentary services through the Counseling and Wellness Services Office, Hunter East 1123. CUNY Policy on Sexual Misconduct  Link: [http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual- Misconduct-12-1-14-with-links.pdf](http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual- Misconduct-12-1-14-with-links.pdf)
 
 ## Weekly Schedule
 
