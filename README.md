@@ -88,7 +88,7 @@ This is a production heavy class. If you do not have your own computer, you will
 
 Some equipment such as multimeters and soldering irons are available to borrow from the equipment room at HN435 although you may consider investing in purchasing your own tools.  
 
-You must post assignments to the [class homework page](https://github.com/andydoro/IMA767_MEDP349_Spring2019/wiki/Homework) on the **following Tuesday, 11pm** before class. Bring your work to class each week and be prepared to talk about it. For each week an assignment is late, 10 points will be deducted from its grade.
+You must post assignments to the [class homework page](https://github.com/andydoro/IMA767_MEDP349_Spring2019/wiki/Homework) on the **following Tuesday, 10pm** before class. Bring your work to class each week and be prepared to talk about it. For each week an assignment is late, 10 points will be deducted from its grade.
 
 Documentation of your work is required for all physical assignments. Refer to the [documentation guidelines](https://github.com/andydoro/IMA767_MEDP349_Spring2019/blob/master/documentation.md).
 
@@ -126,17 +126,19 @@ Since our class is in a computer lab food and drink are not allowed. There will 
 
 ## Academic Integrity
 
-Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating on examinations, obtaining unfair advantage, and falsification of records and official documents) as serious offenses against the values of intellectual honesty. The College is committed to enforcing the CUNY Policy on Academic Integrity and will pursue cases of academic dishonesty according to the Hunter College Academic Integrity Procedures.
+Academic integrity is a guiding principle of the Hunter College learning community because all students should have the opportunity to learn and perform on a level playing field. Academic dishonesty includes, but is not limited to, cheating, plagiarism, obtaining an unfair advantage, and falsifying records or documents ([see examples](http://www.hunter.cuny.edu/studentaffairs/student-conduct/academic-integrity/cuny-policy-on-academic-integrity)) whether intentional or not.
 
-## Disabilities
-
-In compliance with the ADA and with Section 504 of the Rehabilitation Act, Hunter College is committed to ensuring educational access and accommodations for all its registered students. Hunter College’s students with disabilities and medical conditions are encouraged to register with the Office of AccessABILITY for assistance and accommodation. For information and appointment contact the Office of AccessABILITY located in Room E1214 or call (212) 772-4857 or VRS (646) 755-3129, or visit [http://www.hunter.cuny.edu/studentservices/access/](http://www.hunter.cuny.edu/studentservices/access/)
+Hunter College upholds the right to promote academic integrity on its campus as an educational institution of the City University of New York. The College has the responsibility to review all charges of academic dishonesty and implement sanctions, including, but not limited to, failing the course, official transcript notation, suspension or expulsion from the College when it has been determined that academic dishonesty did occur. Please click [here](http://www.hunter.cuny.edu/studentaffairs/repository/files/Sanctions%20Defined.docx) to see a full list of disciplinary sanctions.
 
 ## Hunter College Policy on Sexual Misconduct
 
 In compliance with the CUNY Policy on Sexual Misconduct, Hunter College reaffirms the prohibition of any sexual misconduct, which includes sexual violence, sexual harassment, and gender-based harassment retaliation against students, employees, or visitors, as well as certain intimate relationships. Students who have experienced any form of sexual violence on or off campus (including CUNY-sponsored trips and events) are entitled to the rights outlined in the Bill of Rights for Hunter College. Sexual Violence: Students are strongly encouraged to immediately report the incident by calling 911, contacting NYPD Special Victims Division Hotline (646-610-7272) or their local police precinct, or contacting the College's Public Safety Office (212-772-4444).
 
-All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, Dean John Rose ([jtrose@hunter.cuny.edu](mailto:jtrose@hunter.cuny.edu) or 212-650-3262) or Colleen Barry (<a href="mailto:colleen.barry@hunter.cuny.edu">colleen.barry@hunter.cuny.edu</a> or 212-772-4534) and seek complimentary services through the Counseling and Wellness Services Office, Hunter East 1123. CUNY Policy on Sexual Misconduct  Link: [http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual- Misconduct-12-1-14-with-links.pdf](http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual- Misconduct-12-1-14-with-links.pdf)
+All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, Dean John Rose ([jtrose@hunter.cuny.edu](mailto:jtrose@hunter.cuny.edu) or 212-650-3262) or Colleen Barry ([colleen.barry@hunter.cuny.edu](mailto:colleen.barry@hunter.cuny.edu) or 212-772-4534) and seek complimentary services through the Counseling and Wellness Services Office, Hunter East 1123. CUNY Policy on Sexual Misconduct  Link: [http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual- Misconduct-12-1-14-with-links.pdf](http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual- Misconduct-12-1-14-with-links.pdf)
+
+## Accessibility
+
+In compliance with the American Disability Act of 1990 (ADA) and with Section 504 of the Rehabilitation Act of 1973, Hunter College is committed to ensuring educational parity and accommodations for all students with documented disabilities and/or medical conditions. It is recommended that all students with documented disabilities (Emotional, Medical, Physical, and/or Learning) consult the Office of Accessibility located in Room E1124 to secure necessary academic accommodations. For further information and assistance, please call (212) 772-4857/TTY (212) 650-3230. If you have registered with the Office of Accessibility, please let me know at the start of the term.
 
 ## Weekly Schedule
 
