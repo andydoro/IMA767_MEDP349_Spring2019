@@ -232,7 +232,7 @@ In compliance with the American Disability Act of 1990 (ADA) and with Section 50
 
 ### Week 14, May 8 - Final Project Presentations
 
-### Week 15, May 15 - Final Project Presentations
+### Week 15, May 15 - Final Project Presentations / Reading Day
 
 
 ---
