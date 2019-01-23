@@ -207,20 +207,17 @@ In compliance with the American Disability Act of 1990 (ADA) and with Section 50
 
 ### Week 8, March 20 - Midterm Project Presentations
 
-### Week 9, March 27 - Final Project Proposal / Libraries, Functions and Better Prototyping Techniques
+### Week 9, March 27 - 
+
+### April 1 - Last day to withdraw from a course with a grade of "W"
+
+### Week 10, April 3 - Final Project Proposal / Libraries, Functions and Better Prototyping Techniques
 * creating your own functions
 * soldering
 * shields
 * wiring
 * connectors
 * enclosures & panel mount components
-
-### April 1 - Last day to withdraw from a course with a grade of "W"
-
-### Week 10, April 3 - Final Project Concept Discussion / Wireless
-* electromagnetic spectrum
-* network topologies
-* radio, Xbee, Bluetooth, WiFi, GSM
 
 ### Week 11, April 10 - Final Projects Workshop
 
