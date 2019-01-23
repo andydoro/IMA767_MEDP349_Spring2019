@@ -207,7 +207,7 @@ In compliance with the American Disability Act of 1990 (ADA) and with Section 50
 
 ### Week 8, March 20 - Midterm Project Presentations
 
-### Week 9, March 27 - 
+### Week 9, March 27 - Guest Lecture
 
 ### April 1 - Last day to withdraw from a course with a grade of "W"
 
