@@ -14,7 +14,7 @@ Office Hours: after class or by appointment
 
 ## Course Description
 
-Physical computing is a set of tools and practices that enable artists, designers, and hobbyists to create electro-mechanical works that can sense aspects of the physical world and effect changes to it in ways beyond those offered by the standard desktop, laptop, or mobile computer. Physical computing practitioners use electronic components and physical materials to build devices that interact in some way with the physical world. These practices involve electronic sensors to detect physical input, microcontrollers to reformat and process that input, and actuators to effect changes in the physical world in response to that input
+Physical computing is a set of tools and practices that enable artists, designers, and hobbyists to create electro-mechanical works that can sense aspects of the physical world and effect changes to it in ways beyond those offered by the standard desktop, laptop, or mobile computer. Physical computing practitioners use electronic components and physical materials to build devices that interact in some way with the physical world. These practices involve electronic sensors to detect physical input, microcontrollers to reformat and process that input, and actuators to effect changes in the physical world in response to that input.
 
 This course introduces students to microcontroller programming, electronics, and physical interaction design. The bulk of the course will focus on using the Arduino microcontroller to create experiences that extend beyond the computer screen. We will also examine the use of electronics and interactivity in art and design. Weekly hands-on labs, assignments, and readings will help students gain technical proficiency with these tools and develop a critical and creative eye for interactive technology.
 
@@ -88,7 +88,7 @@ This is a production heavy class. If you do not have your own computer, you will
 
 Some equipment such as multimeters and soldering irons are available to borrow from the equipment room at HN435 although you may consider investing in purchasing your own tools.  
 
-You must post assignments to the [class homework page](https://github.com/andydoro/IMA767_MEDP349_Spring2019/wiki/Homework) on the **following Tuesday, 10pm** before class. Bring your work to class each week and be prepared to talk about it. For each week an assignment is late, 10 points will be deducted from its grade.
+You must post assignments to the [class homework page](https://github.com/andydoro/IMA767_MEDP349_Spring2019/wiki/Homework) on the **following Tuesday, 9pm** before class. Bring your work to class each week and be prepared to talk about it. For each week an assignment is late, 10 points will be deducted from its grade.
 
 Documentation of your work is required for all physical assignments. Refer to the [documentation guidelines](https://github.com/andydoro/IMA767_MEDP349_Spring2019/blob/master/documentation.md).
 
