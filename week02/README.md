@@ -13,6 +13,8 @@
 * [Electricity: The Basics](https://itp.nyu.edu/physcomp/lessons/electronics/electricity-the-basics/)
 * [Breadboards for Beginners](https://learn.adafruit.com/breadboards-for-beginners/)
 * [Components](https://itp.nyu.edu/physcomp/labs/labs-electronics/components/)
+* [L is for LED](https://learn.adafruit.com/circuit-playground-l-is-for-led/)
+* [All About LEDs](https://learn.adafruit.com/all-about-leds)
 * [Understanding DC Power Supplies](https://itp.nyu.edu/physcomp/lessons/electronics/understanding-dc-power-supplies/)
 * [Schematic Diagrams](https://itp.nyu.edu/physcomp/videos/videos-schematic-diagrams/)
 * [Sensors Survey 1](https://vimeo.com/album/2801639/video/102042976)
