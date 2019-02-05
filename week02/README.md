@@ -4,13 +4,14 @@
 
 * [Thales of Miletus](https://www.awesomestories.com/asset/view/Thales-of-Miletus-Discovers-Static-Electricity)
 * [Electricity Timeline](http://galileoandeinstein.physics.virginia.edu/more_stuff/E&M_Hist.html)
-* [Wikipedia: Leyden jar](https://en.wikipedia.org/wiki/Leyden_jar)
+* [Wikipedia: Leyden Jar](https://en.wikipedia.org/wiki/Leyden_jar)
 * [Wikipedia: War of the Currents](https://en.wikipedia.org/wiki/War_of_the_currents)
 * [Wired: 50 Years of LEDs](https://www.wired.com/2012/10/the-history-of-led/)
 
 ## Electronics Tutorials
 
 * [Electricity: The Basics](https://itp.nyu.edu/physcomp/lessons/electronics/electricity-the-basics/)
+* [Breadboards for Beginners](https://learn.adafruit.com/breadboards-for-beginners/)
 * [Components](https://itp.nyu.edu/physcomp/labs/labs-electronics/components/)
 * [Understanding DC Power Supplies](https://itp.nyu.edu/physcomp/lessons/electronics/understanding-dc-power-supplies/)
 * [Schematic Diagrams](https://itp.nyu.edu/physcomp/videos/videos-schematic-diagrams/)
