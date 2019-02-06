@@ -1,5 +1,9 @@
 # Week 2
 
+## Presentation
+
+* [History of Electricty & Basics](https://docs.google.com/presentation/d/1pBwuHSmrl6IEHu_BRr0XPQnDh68y9sxSEcqG7hbGZvk/edit?usp=sharing)
+
 ## History of Electricity
 
 * [Thales of Miletus](https://www.awesomestories.com/asset/view/Thales-of-Miletus-Discovers-Static-Electricity)
