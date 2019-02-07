@@ -32,9 +32,10 @@ check websites for open days!
 * [NYC Resistor](https://www.nycresistor.com/) - Gowanus
 * [Fat Cat Fab Lab](https://www.fatcatfablab.org/) - Greenwich Village
 * [Hack Manhattan](https://hackmanhattan.com/) - W 14th St
-* [A/D/O](https://a-d-o.com/workspace) - Greenpoint
+* [Futureworks Makerspace](https://www.makerspace.nyc/) - Brooklyn Army Terminal
 * [NYDesigns FabLab](http://nydesigns.org/fablab/) - Long Island City
 * [Staten Island Makerspace](https://www.makerspace.nyc/) - Stapleton, Staten Island
+* [A/D/O](https://a-d-o.com/workspace) - Greenpoint
 * [JC Fab Lab](http://jcfablab.com/) - Jersey City
 
 ## Other Relevant Organizations
