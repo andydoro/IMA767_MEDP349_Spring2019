@@ -181,8 +181,12 @@ In compliance with the American Disability Act of 1990 (ADA) and with Section 50
 ### Week 4, February 20 - Programming Interaction & Analog I/O 
 * programming interaction
   * variables
+    * datatypes
+  * operators
+    * arithmetic
+    * comparison
+    * boolean
   * conditionals (if, else)
-  * datatypes
 * Culkin & Hagan, Ch. 6-7
 
 ### Week 5, February 27 - Iteration
