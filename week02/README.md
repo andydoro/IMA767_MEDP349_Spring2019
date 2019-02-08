@@ -40,6 +40,7 @@
 
 * [Ohm's Law 1](https://vimeo.com/album/2801639/video/76442432)
 * [Ohm's Law 2](https://vimeo.com/76442431)
+* [Circuit Playground: O is for Ohm](https://learn.adafruit.com/circuit-playground-o-is-for-ohm)
 * [Make: Ohm's Law](https://www.youtube.com/watch?v=-mHLvtGjum4)
 * [LED Resistor Calculator](http://www.ohmslawcalculator.com/led-resistor-calculator)
 * [All About LEDs](https://learn.adafruit.com/all-about-leds/overview)
