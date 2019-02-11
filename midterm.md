@@ -23,9 +23,9 @@ Think about what lighting technology (or technologies) you'd like to use, what m
 ### [LEDs](https://www.adafruit.com/category/37)
 
 * The latest in lighting technology. Come in different colors, even invisible (infrared, ultraviolet).
-* Come in RGB packages which can be used for color mixing.
-* Come in strip / panel forms. Bendy imitation neon.
-* "Smart" RGB LEDs such as the [Neopixel](https://learn.adafruit.com/adafruit-neopixel-uberguide) or [Dotstar](https://learn.adafruit.com/adafruit-dotstar-leds) which require a microcontroller but allow for individual pixel control.
+* Can appear in RGB packages which can be used for color mixing.
+* Can come in [strip](https://www.adafruit.com/category/86) or panel forms. [Bendy imitation neon](https://www.adafruit.com/product/3861).
+* "Smart" RGB LEDs such as the [Neopixel](https://learn.adafruit.com/adafruit-neopixel-uberguide) or [Dotstar](https://learn.adafruit.com/adafruit-dotstar-leds) which require a microcontroller allow for individual pixel control.
 * LEDs are replacing classic incandescent bulb and even ["Edison bulbs"](https://www.amazon.com/LED-Bulbs-Antique-Replica-Style-Light/s?ie=UTF8&page=1&rh=n%3A2314207011%2Cp_n_feature_three_browse-bin%3A4906234011). 
 
 ### [EL Wire / Tape / Panel](https://www.adafruit.com/category/50)
@@ -38,5 +38,7 @@ Think about what lighting technology (or technologies) you'd like to use, what m
 ## Lighting Advice
 
 * [Let's Put LEDs in Things](https://learn.adafruit.com/lets-put-leds-in-things)
+* [Neopixel Uberguide](https://learn.adafruit.com/adafruit-neopixel-uberguide)
+* [EL Wire](https://learn.adafruit.com/el-wire)
 
 
