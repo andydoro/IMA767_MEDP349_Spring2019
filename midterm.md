@@ -1,6 +1,6 @@
 # Midterm
 
-## Due March 20
+## due March 20
 
 Design a lamp, night-light, or light sculpture of some kind. This can be interpreted in the most expansive way possible. Make it interesting. You don't need to see by it. 
 
@@ -8,7 +8,7 @@ You don't need to use an Arduino- that's optional.
 
 Think about what lighting technology (or technologies) you'd like to use, what material, and diffusion of the light (such as with a lamp shade). One interesting technology for diffusion is the [light valve](https://www.adafruit.com/product/3330), which changes opacity depending on the voltage applied to it.
 
-You can also consider other interesting optical properties such as total internal reflection, used to great effect in this [rainbow light sculpture](https://learn.adafruit.com/glue-stick-archway).
+You can also consider other interesting optical properties such as total internal reflection, used to great effect in this [rainbow light sculpture](https://learn.adafruit.com/glue-stick-archway). [Edge lighting acrylic](https://learn.adafruit.com/led-acrylic-sign) is another similar method.
 
 
 ## Inspiration
@@ -37,7 +37,6 @@ You can also consider other interesting optical properties such as total interna
 * Requires an AC inverter which can create an annoying high pitched noise.
 * Flexible, so often used in wearables.
 * EL panels can be cut into shapes.
-
 
 ## Lighting Advice
 
