@@ -15,11 +15,15 @@
 ## Electronics Tutorials
 
 * [Electricity: The Basics](https://itp.nyu.edu/physcomp/lessons/electronics/electricity-the-basics/)
-* [Breadboards for Beginners](https://learn.adafruit.com/breadboards-for-beginners/)
 * [Components](https://itp.nyu.edu/physcomp/labs/labs-electronics/components/)
 * [Understanding DC Power Supplies](https://itp.nyu.edu/physcomp/lessons/electronics/understanding-dc-power-supplies/)
 * [Sensors Survey 1](https://vimeo.com/album/2801639/video/102042976)
 * [Sensors Survey 2](https://vimeo.com/102044250)
+
+## Breadboards
+
+* [Breadboards for Beginners](https://learn.adafruit.com/breadboards-for-beginners/)
+* [Sparkfun: How to Use a Breadboard](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard)
 
 ### Schematics
 
