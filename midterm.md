@@ -10,6 +10,8 @@ Think about what lighting technology (or technologies) you'd like to use, what m
 
 You can also consider other interesting optical properties such as total internal reflection, used to great effect in this [rainbow light sculpture](https://learn.adafruit.com/glue-stick-archway). [Edge lighting acrylic](https://learn.adafruit.com/led-acrylic-sign) is another similar method.
 
+This should be a more finished project and as such should be soldered rather than built on a breadboard. The equipment room has a soldering iron which you can borrow if you need it.
+
 
 ## Inspiration
 
