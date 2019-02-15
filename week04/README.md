@@ -30,6 +30,13 @@
 
 ## Art Examples
 
+### Soldering
+
+* [Taezoo Park, Singularity](http://www.taezoo.com/small#/singularity/)
+* [Gislain Benoit, The Clock](https://makezine.com/2015/01/30/masterpiece-of-soldering-you-wont-believe-this-handmade-electronic-clock/)
+
+### Arrays
+
 * Jim Campbell - [Ambiguous Icon 2](http://www.jimcampbell.tv/portfolio/low_resolution_works/ambiguous_icon_2_fight/)
 * [Tatsuo Miyajima](http://tatsuomiyajima.com/category/work-projects/) - [Connect With Everything](https://www.youtube.com/watch?v=5LFzXwWzVjY)
 * Dunne & Raby - [Compass Table](http://www.dunneandraby.co.uk/content/books/90/0)
@@ -39,3 +46,4 @@
 * [A Million Times](http://www.humanssince1982.com/a-million-times)
 * [Leo Villareal](https://www.youtube.com/watch?v=HplsGiSmnJI)
 * [Jenny Holzer](http://projects.jennyholzer.com/LEDs)
+
