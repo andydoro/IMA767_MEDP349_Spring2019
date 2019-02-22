@@ -4,7 +4,8 @@
 
 * [Analog and Digital](https://www.youtube.com/watch?v=WxJKXGugfh8)
 * [Sparkfun Tutorials: Analog vs. Digital](https://learn.sparkfun.com/tutorials/analog-vs-digital)
-* [Technology Connections: Sound By Numbers: The Rise of Digital Sound](https://www.youtube.com/watch?v=Gd_mhBf_FJA&list=PLv0jwu7G_DFWBEyCKt4tKHIk8ez_pZS_P&index=1)
+* [Technology Connections: Sound By Numbers: The Rise of Digital Sound](https://www.youtube.com/watch?v=Gd_mhBf_FJA)
+* [Real Engineering: Vinyl vs. Digital](https://www.youtube.com/watch?v=lzRvSWPZQYk)
 
 
 ## Binary & Data
