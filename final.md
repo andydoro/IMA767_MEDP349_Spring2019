@@ -21,7 +21,9 @@ Please shop around and see what's available out there. There's a huge variety of
 
 ## What You Should Avoid
 
-Don't try to do a project that would be much better executed on a full computer or as a smartphone app. The point of physical computing is to explore alternative possibilities for computers when they become inexpensive, highly portable, and with inputs and outputs which are different from a standard desktop computer.
+Don't try to do a project that would be much better executed on a full computer or as a smartphone app. The point of physical computing is to explore alternative possibilities for computers when they become inexpensive, highly portable, and with inputs and outputs which are different from a standard desktop computer. If necessary you can incorporate a full computer into your project provided there is a good reason for it. Raspberry Pis are great for physical computing projects as they have a good amount of computing power, have GPIO pins, and are designed to connect to the internet.
+
+I've also had students suggest making devices such as a calculator or a radio. If suggesting something along these lines there should be something original or novel about whatever you're creating. Similarly, I've been generally disappointed by plans to make remote control or autonomous toy cars.
 
 ## Quality
 
