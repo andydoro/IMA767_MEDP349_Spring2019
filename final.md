@@ -48,6 +48,16 @@ Don't expect this to be your magnum opus. You're just scratching the surface of 
 
 Your final project must be [well documented](https://github.com/andydoro/IMA767_MEDP349_Fall2018/wiki/Documentation-Guidelines), including aesthetic and technical explanations, sketches, circuit diagrams, and well-commented code.
 
+## Schedule
+
+4/3 - Idea Workshop / Brainstorming
+4/10 - Final Project Proposal
+4/17 - Project Workshop
+4/24 - Spring Break
+5/1 - User Testing
+5/8 - Final Project Presentations
+
 ## Due Date
 
 Present your project in class on May 8.
+
