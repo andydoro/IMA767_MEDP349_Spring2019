@@ -50,13 +50,13 @@ Your final project must be [well documented](https://github.com/andydoro/IMA767_
 
 ## Schedule
 
-4/3 - Idea Workshop / Brainstorming
-4/10 - Final Project Proposal
-4/17 - Project Workshop
-4/24 - Spring Break
-5/1 - User Testing
-5/8 - Final Project Presentations
-5/15 - Final Project Documentation Due
+* 4/3 - Idea Workshop / Brainstorming
+* 4/10 - Final Project Proposal
+* 4/17 - Project Workshop / Paper Prototype
+* 4/24 - Spring Break
+* 5/1 - User Testing / Prototype
+* 5/8 - Final Project Presentations
+* 5/15 - Final Project Documentation Due
 
 ## Due Date
 
