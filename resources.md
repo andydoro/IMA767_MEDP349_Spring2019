@@ -66,7 +66,7 @@ check websites for open days!
 * [perma-proto](https://www.adafruit.com/category/466)
 * wire - [solid core](https://www.adafruit.com/product/3174) is better for breadboards
 ### Safety
-* [fume extractor](https://www.adafruit.com/product/3544) [diy](https://learn.adafruit.com/usb-rechargeable-mini-solder-fume-extractor)
+* [fume extractor](https://www.adafruit.com/product/3544) / [diy](https://learn.adafruit.com/usb-rechargeable-mini-solder-fume-extractor)
 * eye protection
 
 
