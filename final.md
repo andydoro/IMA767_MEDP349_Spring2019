@@ -46,7 +46,19 @@ Don't expect this to be your magnum opus. You're just scratching the surface of 
 
 ## Documentation
 
-Your final project must be [well documented](https://github.com/andydoro/IMA767_MEDP349_Fall2018/wiki/Documentation-Guidelines), including aesthetic and technical explanations, sketches, circuit diagrams, and well-commented code.
+Your final project must be [well documented](https://github.com/andydoro/IMA767_MEDP349_Fall2018/wiki/Documentation-Guidelines), including aesthetic and technical explanations, sketches, circuit diagrams, and well-commented code.  
+
+Explain aesthetic and conceptual decisions as well as technical ones. Try to come up with a title for your project. It can be helpful to tell a story as to how you created your project. What challenges came up? 
+
+In your conclusion, describe what aspects you feel succeed and where the project could be improved. How would you take the project further or build upon what you learned in future projects?
+
+## Presentation
+
+You can choose to show first and then explain your project, or vice versa.  
+
+Explain your project in a way that it would make sense to someone with no background knowledge about your project. Who would use it? It is more of a functional or a conceptual object? If you would like, you can create a video or slideshow to help explain the construction and technical aspects of your project. 
+
+
 
 ## Schedule
 
