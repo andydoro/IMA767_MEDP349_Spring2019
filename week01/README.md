@@ -15,6 +15,10 @@
 
 * [Ladyada's Intro to Arduino](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0/intro) - examines the anatomy of Arduino
 
+## Github
+
+* [Git and Github for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
+
 ## LED Sand
 
 * [LED Sand](https://learn.adafruit.com/animated-led-sand) - complicated code but you can see how it was done
