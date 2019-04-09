@@ -10,3 +10,8 @@
 
 * [Lava Lamps](https://www.youtube.com/watch?v=1cUUfMeOijg)
 * [Random Walks](https://www.youtube.com/watch?v=l__fEY1xanY)
+
+
+## Idea Generation
+
+* [Oblique Strategies](http://stoney.sb.org/eno/oblique.html)
