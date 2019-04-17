@@ -5,6 +5,7 @@
 * [Wikipedia: Color Vision](https://en.wikipedia.org/wiki/Color_vision)
 * [LEDs: Color Spaces](https://vimeo.com/241088682)
 * [Programming Design Systems: Color Spaces](https://programmingdesignsystems.com/color/color-models-and-color-spaces/index.html)
+* [Wikipedia: Color Depth](https://en.wikipedia.org/wiki/Color_depth)
 
 ## Random
 
