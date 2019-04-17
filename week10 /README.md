@@ -16,3 +16,4 @@
 ## Idea Generation
 
 * [Oblique Strategies](http://stoney.sb.org/eno/oblique.html)
+* [Cut-Up Technique](https://en.wikipedia.org/wiki/Cut-up_technique)
