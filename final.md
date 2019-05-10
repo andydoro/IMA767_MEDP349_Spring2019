@@ -74,3 +74,5 @@ Explain your project in a way that it would make sense to someone with no backgr
 
 Present your project in class on May 8.
 
+Documentation due May 19.
+
